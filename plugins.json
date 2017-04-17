@@ -560,6 +560,12 @@
 			"desc": "Allows easy customization of many aspects of Minecraft\nthrough the modification of NBT tags.",
 			"jarName": "NBTEditor.jar",
 			"configName": "NBTEditor"
+		},
+		{
+			"name": "PerWorldInventory",
+			"desc": "Allows a separate inventory for each world.",
+			"jarName": "PerWorldInventory.jar",
+			"configName": "PerWorldInventory"
 		}
 	]
 }
